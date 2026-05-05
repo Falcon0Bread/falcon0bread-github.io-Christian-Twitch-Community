@@ -1,0 +1,17 @@
+.body-frame
+{ margin-left: 230px;}
+body {
+    font-family:"Iosevka Charon", monospace ;
+}
+.btn{
+    display: inline-flex;
+    margin-left: 230px;
+    margin-bottom: 50px;
+    margin-top:40px;
+    padding:10px 20px;
+    background-color: rgba(55, 54, 54, 0.76);
+    color:#adf1f1;
+    text-decoration: none;
+    border-radius: 20px;
+        
+}
